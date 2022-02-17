@@ -1,15 +1,24 @@
 # Christopher Bruinsma 
 
-Welcome to my Github, my name is Chris. I am an aspiring ```Computer Science B.A.``` student at the University of Rochester. 
-I learn quickly and actively in many fields and am always eager to find more creative ways to solve problems. 
+Welcome to my Github, my name is Chris. I am an aspiring ```Computer Science B.A.``` student at the University of Rochester and an incoming Software Engineering intern at ```Lockheed Martin```.  I learn quickly and actively in many fields. I find that this is the way to find more createive ways to solve problems. 
 I have knowledge of several programming languages as well as an eye for detail and design. 
-The accomplishments 
 I am currently embarking on an independent study into near-sensor image processing using neural networks for characterization under extreme heat pressure.
 
 *My most exciting coding project have been the following.* 
 *For academic honesty reasons this code is private.*
 
 ## Languages 
+
+
+### Python
+
+Demosaicing Algorithm for Bayer Array Images ```CSC 292/572```
+
+Camera Trigger Based on Heat ```CSC 391```
+
+Film Chromaticity Diagrams ```CSC 292/572```
+
+Neural Network Implementation for Images with Dark Current [*In progress*] ```CSC 391```
 
 
 ### Java
@@ -38,17 +47,6 @@ Database Model ```CSC 173```
 Circuit Simulator ```CSC 173```
 
 Collatz Conjecture ```Recusion Practice```
-
-
-### Python
-
-Demosaicing Algorithm for Bayer Array Images ```CSC 292/572```
-
-Camera Trigger Based on Heat ```CSC 391```
-
-Film Chromaticity Diagrams ```CSC 292/572```
-
-Neural Network Implementation for Images with Dark Current [*In progress*] ```CSC 391```
 
 
 ### MATLAB
