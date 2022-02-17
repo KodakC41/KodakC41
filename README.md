@@ -1,6 +1,6 @@
 # Christopher Bruinsma 
 
-Welcome to my Github, my name is Chris. I am an aspiring ```Computer Science B.A.``` student at the University of Rochester and an incoming Software Engineering intern at ```Lockheed Martin```.  I learn quickly and actively in many fields. I find that this is the way to find more createive ways to solve problems. 
+Welcome to my Github, my name is Chris. I am an aspiring ```Computer Science B.A.``` junior at the University of Rochester and an incoming Software Engineering intern at ```Lockheed Martin```.  I learn quickly and actively in many fields. I find that this is the way to find more createive ways to solve problems. 
 I have knowledge of several programming languages as well as an eye for detail and design. 
 I am currently embarking on an independent study into near-sensor image processing using neural networks for characterization under extreme heat pressure.
 
@@ -69,13 +69,6 @@ Lisp Basics Sets, Lists, Maths ```CSC 173```
 Knowledgable Machine ```CSC 191```
 
 
-### Kotlin
-
-Meme Generator ```CSC 214```
-
-#### Swift 
-
-DandyHacks 2021
-
+Noteable others are ```C++``` , ```R``` , ```Kotlin``` , and ```Swift```
 
 
