@@ -4,7 +4,7 @@ Welcome to my Github, my name is Chris. I am an aspiring ```Computer Science B.A
 I have knowledge of several programming languages as well as an eye for detail and design. 
 I am currently embarking on an independent study into near-sensor image processing using neural networks for characterization under extreme heat pressure.
 
-*My most exciting coding project have been the following.* 
+*My most exciting coding projects have been the following.* 
 *For academic honesty reasons this code is private.*
 
 ## Languages 
@@ -69,6 +69,12 @@ Lisp Basics Sets, Lists, Maths ```CSC 173```
 Knowledgable Machine ```CSC 191```
 
 
-Noteable others are ```C++``` , ```R``` , ```Kotlin``` , and ```Swift```
+### Noteable Others  
+```C++``` , ```R``` , ```Kotlin``` , and ```Swift``` 
 
+### Fun Facts
+My favorite IDE color scheme is ```Ayu Dark Boardered```
+
+
+My pre-code drink is the ```Brown-Sugar-Oatmilke Shaken Espresso```
 
