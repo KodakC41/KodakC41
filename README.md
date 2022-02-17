@@ -16,7 +16,7 @@ Demosaicing Algorithm for Bayer Array Images ```CSC 292/572```
 
 Camera Trigger Based on Heat ```Independent Study```
 
-Film Chromaticity Diagrams ```CSC 292/572```
+Film Chromaticity Diagram GUI ```CSC 292/572```
 
 Neural Network Implementation for Images with Dark Current [*In progress*] ```Independent Study```
 
