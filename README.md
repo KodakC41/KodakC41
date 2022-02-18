@@ -82,7 +82,7 @@ I am currently embarking on an independent study into near-sensor image processi
 1. My favorite IDE color scheme is ```Ayu Dark Boardered```
 
 
-2. My pre-code drink is the ```Brown-Sugar-Oatmilke Shaken Espresso```
+2. My pre-code drink is the ```Brown-Sugar-Oatmilk Shaken Espresso```
 
 3. I am actually a *Starbucks Coffee Master*
 
