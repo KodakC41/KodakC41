@@ -12,69 +12,76 @@ I am currently embarking on an independent study into near-sensor image processi
 
 ### Python
 
-Demosaicing Algorithm for Bayer Array Images ```CSC 292/572```
+- Demosaicing Algorithm for Bayer Array Images ```CSC 292/572```
 
-Camera Trigger Based on Heat ```Independent Study```
+- Camera Trigger Based on Heat ```Independent Study```
 
-Film Chromaticity Diagram GUI ```CSC 292/572```
+- Film Chromaticity Diagram GUI ```CSC 292/572```
 
-Neural Network Implementation for Images with Dark Current [*In progress*] ```Independent Study```
+- Neural Network Implementation for Images with Dark Current [*In progress*] ```Independent Study```
 
 
 ### Java
 
-Shunting Yard Algorithm ```CSC 172```
+- Shunting Yard Algorithm ```CSC 172```
 
-Huffman Encoding Algorithm ```CSC 172```
+- Huffman Encoding Algorithm ```CSC 172```
 
-Map-making and Djikstra's Algortihm ```CSC 172```
+- Map-making and Djikstra's Algortihm ```CSC 172```
 
-Collatz Conjecture ```Recusion Practice```
+- Collatz Conjecture ```Recusion Practice```
 
-Concentration Calculator ```For fun```
+- Concentration Calculator ```For fun```
 
-Recursive Make Change Calculator ```CSC 172```
+- Recursive Make Change Calculator ```CSC 172```
 
 
 ### C
 
-DFA and NFA Implementations ```CSC 173```
+- DFA and NFA Implementations ```CSC 173```
 
-Recusive Descent Parser ```CSC 173```
+- Recusive Descent Parser ```CSC 173```
 
-Database Model ```CSC 173```
+- Database Model ```CSC 173```
 
-Circuit Simulator ```CSC 173```
+- Circuit Simulator ```CSC 173```
 
-Collatz Conjecture ```Recusion Practice```
+- Collatz Conjecture ```Recusion Practice```
 
 
 ### MATLAB
 
-Derivative Calculator ```OPT 212```
+- Derivative Calculator ```OPT 212```
 
-3D Wave Interference Generator ```OPT 212```
+- 3D Wave Interference Generator ```OPT 212```
 
-RBG - CMY Color Mixer ```OPT 212```
+- RBG - CMY Color Mixer ```OPT 212```
 
-Diffraction Simulator ```OPT 211```
+- Diffraction Simulator ```OPT 211```
 
-RGB Chromaticity Diagrams of Kodak Films ```CSC 292/572```
+- RGB Chromaticity Diagrams of Kodak Films ```CSC 292/572```
 
 
 ### Lisp
 
-Lisp Basics Sets, Lists, Maths ```CSC 173```
+- Lisp Basics Sets, Lists, Maths ```CSC 173```
 
-Knowledgable Machine ```CSC 191```
+- Knowledgable Machine ```CSC 191```
 
 
 ### Noteable Others  
-```C++``` , ```R``` , ```Kotlin``` , and ```Swift``` 
+- ```C++``` for CSC 292/572  
+
+- ```R``` for STAT 213 
+
+- ```Kotlin``` for CSC 214
+
+- ```Swift``` for a Hackathon and personal projects
 
 ### Fun Facts
-My favorite IDE color scheme is ```Ayu Dark Boardered```
+1. My favorite IDE color scheme is ```Ayu Dark Boardered```
 
 
-My pre-code drink is the ```Brown-Sugar-Oatmilke Shaken Espresso```
+2. My pre-code drink is the ```Brown-Sugar-Oatmilke Shaken Espresso```
+
 
