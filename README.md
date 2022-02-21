@@ -59,7 +59,7 @@ I am currently embarking on an independent study into near-sensor image processi
 
 - Diffraction Simulator ```OPT 211```
 
-- RGB Chromaticity Diagrams of Kodak Films ```CSC 292/572```
+- RGB Chromaticity Diagrams of *Kodak* Films ```CSC 292/572```
 
 
 ### Lisp
