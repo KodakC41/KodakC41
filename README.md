@@ -69,12 +69,17 @@ I am currently embarking on an independent study into near-sensor image processi
 - Knowledgable Machine ```CSC 191```
 
 
+### Kotlin
+- Meme Generator Localized in French and English ```CSC 214```
+
+- Three Card Monty Game ```CSC 214```
+
+
+
 ### Noteable Others  
 - ```C++``` for CSC 292/572  
 
 - ```R``` for STAT 213 
-
-- ```Kotlin``` for CSC 214
 
 - ```Swift``` for a Hackathon and personal projects
 
