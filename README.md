@@ -15,11 +15,12 @@ I am currently embarking on an independent study into near-sensor image processi
 - Demosaicing Algorithm for Bayer Array Images ```CSC 292/572```
 
 - Camera Trigger Based on Heat ```Independent Study```
+  > Using : Spinnaker SDK
 
 - Film Chromaticity Diagram GUI ```CSC 292/572```
 
-- Neural Network Implementation for Images with Dark Current [*In progress*] ```Independent Study```
-
+- Neural Network Implementation for Images with Thermal Noise Current [*In progress*] ```Independent Study```
+  > Using: ```TensorFlow.keras```
 
 ### Java
 
