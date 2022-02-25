@@ -20,7 +20,7 @@ I am currently embarking on an independent study into near-sensor image processi
 - Film Chromaticity Diagram GUI ```CSC 292/572```
 
 - Neural Network Implementation for Images with Thermal Noise Current [*In progress*] ```Independent Study```
-  > Using: ```TensorFlow.keras```
+  > Using: TensorFlow Keras
 
 ### Java
 
