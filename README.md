@@ -32,7 +32,7 @@ I am currently embarking on an independent study into near-sensor image processi
 
 - Collatz Conjecture ```Recusion Practice```
 
-- Concentration Calculator ```For fun```
+- Concentration Calculator ```For Fun```
 
 - Recursive Make Change Calculator ```CSC 172```
 
@@ -41,7 +41,7 @@ I am currently embarking on an independent study into near-sensor image processi
 
 - DFA and NFA Implementations ```CSC 173```
 
-- Recusive Descent Parser ```CSC 173```
+- Recusive Descent Parser(s) ```CSC 173```
 
 - Database Model ```CSC 173```
 
@@ -72,8 +72,10 @@ I am currently embarking on an independent study into near-sensor image processi
 
 ### Kotlin
 - Meme Generator Localized in French and English ```CSC 214```
+  > Localization & Persistance
 
 - Three Card Monty Game ```CSC 214```
+  > Animations
 
 
 
