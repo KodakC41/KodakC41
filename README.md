@@ -21,6 +21,8 @@ I am currently embarking on an independent study into near-sensor image processi
 
 - Neural Network Implementation for Images with Thermal Noise Current [*In progress*] ```Independent Study```
   > Using: TensorFlow Keras
+  
+  > Creating a data class that consists of images taken a varying temperatures
 
 ### Java
 
