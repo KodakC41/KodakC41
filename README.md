@@ -14,15 +14,11 @@ I am currently embarking on an independent study into near-sensor image processi
 
 - Demosaicing Algorithm for Bayer Array Images ```CSC 292/572```
 
-- Camera Trigger Based on Heat ```Independent Study```
-  > Using : Spinnaker SDK
+- Camera Trigger Based on Heat ```Independent Study [CSC 391]```
 
 - Film Chromaticity Diagram GUI ```CSC 292/572```
 
-- Neural Network Implementation for Images with Thermal Noise Current [*In progress*] ```Independent Study```
-  > Using: TensorFlow Keras
-  
-  > Creating a data class that consists of images taken at varying temperatures
+- Neural Network Implementation for Images with Thermal Noise Current [*In progress*] ```Independent Study [CSC 391]```
 
 ### Java
 
@@ -76,10 +72,8 @@ I am currently embarking on an independent study into near-sensor image processi
 
 ### Kotlin
 - Meme Generator Localized in French and English ```CSC 214```
-  > Localization & Persistance
 
-- Three Card Monty Game ```CSC 214```
-  > Animations
+- Three Card Monty Game / Tik Tac Toe Game in one App ```CSC 214```
 
 
 
