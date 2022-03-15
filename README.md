@@ -69,7 +69,9 @@ I am currently embarking on an independent study into near-sensor image processi
 
 - Lisp Basics Sets, Lists, Maths ```CSC 173```
 
-- Knowledgable Machine ```CSC 191```
+- Knowledge Base Question Answering ```CSC 191```
+
+- Rule-Based Inferences and Question Answering ```CSC 191```
 
 
 ### Kotlin
@@ -90,7 +92,6 @@ I am currently embarking on an independent study into near-sensor image processi
 
 ### Fun Facts
 1. My favorite IDE color scheme is ```Ayu Dark Boardered```
-
 
 2. My pre-code drink is the ```Brown-Sugar-Oatmilk Shaken Espresso```
 
