@@ -2,7 +2,7 @@
 
 Welcome to my Github, my name is Chris. I am an aspiring ```Computer Science B.A.``` junior at the University of Rochester and an incoming Software Engineering intern at ```Lockheed Martin```.  I learn quickly and actively in many fields. I find that this is the way to develop more creative ways to solve problems. 
 
-I also have an inate ability to capture in an image just about anything and have done projects in imaging that have ranged from imaging sound to imaging air. 
+I also have an inate ability to capture in an image just about anything and have done projects in imaging that have ranged from imaging sound to imaging air. Imaging air used ```Schlieren imaging``` and imaging sound employed a home-made oscilliscope using *Saran wrap*, *a mirror fragment*, and a *laser*. 
 
 I have knowledge of several programming languages as well as an eye for detail and design. 
 I am currently embarking on an independent study into near-sensor image processing using a neural network for object-detection in noisy images taken under extreme heat for ```Horizon Research```.
