@@ -78,12 +78,14 @@ I am currently embarking on an independent study into near-sensor image processi
 
 - Three Card Monty Game / Tik Tac Toe Game in one App ```CSC 214```
 
+- Yatzhee Game *recyclerView*, *cardView*, *radioGroup*, ```CSC 214```
+
 
 
 ### Noteworthy Others  
-- ```C++``` for CSC 292/572  
+- ```C++``` for ```CSC 292/572```
 
-- ```R``` for STAT 213 
+- ```R``` for ```STAT 213``` 
 
 - ```Swift``` for a Hackathon and personal projects
 
