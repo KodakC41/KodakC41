@@ -17,7 +17,7 @@ I am currently embarking on an independent study into near-sensor image processi
 
 - Demosaicing Algorithm for Bayer Array Images ```CSC 292/572```
 
-- Camera Trigger Based on Heat ```Independent Study [CSC 391]```
+- Automating a Heat Gun and Camera Setup ```Independent Study [CSC 391]```
 
 - Film Chromaticity Diagram GUI ```CSC 292/572```
 
