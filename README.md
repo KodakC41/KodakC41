@@ -74,11 +74,7 @@ I am currently embarking on an independent study into near-sensor image processi
 
 
 ### Kotlin
-- Meme Generator Localized in French and English ```CSC 214```
-
-- Three Card Monty Game / Tik Tac Toe Game in one App ```CSC 214```
-
-- Yatzhee Game *recyclerView*, *cardView*, *radioGroup*, ```CSC 214```
+- Flight Tracker Application using AeroAPI ```CSC 214```  
 
 
 
