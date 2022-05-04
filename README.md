@@ -74,7 +74,7 @@ I am currently embarking on an independent study into near-sensor image processi
 
 
 ### Kotlin
-- Flight Tracker Application using AeroAPI ```CSC 214```  
+- Flight Tracker Application using FlightAware's AeroApi
 
 
 
