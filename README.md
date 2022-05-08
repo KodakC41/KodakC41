@@ -17,7 +17,7 @@ I am currently embarking on an independent study into near-sensor image processi
 
 - Demosaicing Algorithm for Bayer Array Images ```CSC 292/572```
 
-- Automating a Heat Gun and Camera Setup ```Independent Study [CSC 391]``` -> [Here](https://github.com/horizon-research/Overcoming-NSP-Noise.git)
+- [Automating](https://github.com/horizon-research/Overcoming-NSP-Noise.git) a Heat Gun and Camera Setup ```Independent Study [CSC 391]``` 
 
 - Film Chromaticity Diagram GUI ```CSC 292/572```
 
