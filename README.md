@@ -23,6 +23,8 @@ I am currently embarking on an independent study into near-sensor image processi
 
 - Neural Network Implementation for Images with Thermal Noise Current [*In progress*] ```Independent Study [CSC 391]```
 
+- Facial Tracker Implementation using OpenFace ```CSC 212```
+
 ### Java
 
 - Shunting Yard Algorithm ```CSC 172```
@@ -36,6 +38,7 @@ I am currently embarking on an independent study into near-sensor image processi
 - Concentration Calculator ```For Fun```
 
 - Recursive Make Change Calculator ```CSC 172```
+
 
 
 ### C
