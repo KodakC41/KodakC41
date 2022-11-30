@@ -25,6 +25,7 @@ I am currently embarking on an independent study into near-sensor image processi
 
 - Facial Tracker Implementation using *OpenFace* AI ```CSC 212```
 
+
 ### Java
 
 - Shunting Yard Algorithm ```CSC 172```
@@ -38,6 +39,9 @@ I am currently embarking on an independent study into near-sensor image processi
 - Concentration Calculator ```For Fun```
 
 - Recursive Make Change Calculator ```CSC 172```
+
+- Linear Classifier ```CSC 242```
+
 
 
 
