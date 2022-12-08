@@ -19,11 +19,15 @@ I am currently embarking on an independent study into near-sensor image processi
 
 - [Automating](https://github.com/horizon-research/Overcoming-NSP-Noise.git) a Heat Gun and Camera Setup ```Independent Study [CSC 391]``` 
 
-- Film Chromaticity Diagram GUI ```CSC 292/572```
+- [Coffee Language Processor](https://huggingface.co/cbruinsm/en_Coff_Ev1) Using ```NER``` through ```spaCy``` ```CSC 212``` 
 
-- Neural Network Implementation for Images with Thermal Noise Current [*In progress*] ```Independent Study [CSC 391]```
+- [Film Chromaticity Diagram](https://github.com/KodakC41/KodakC41/files/10181900/CbruinsmWriteUp.pdf)
+Diagram GUI ```CSC 292/572```
+
+- Indenpendent Study of Neural Network Implementations for Images with Thermal Noise ```CSC 391```
 
 - Facial Tracker Implementation using *OpenFace* AI ```CSC 212```
+
 
 
 ### Java
@@ -40,16 +44,13 @@ I am currently embarking on an independent study into near-sensor image processi
 
 - Recursive Make Change Calculator ```CSC 172```
 
-- Linear Classifier ```CSC 242```
-
+- Linear Classifiers for Logistic and Perceptron Classification ```CSC 242```
 
 
 
 ### C
 
 - DFA and NFA Implementations ```CSC 173```
-
-- Recursive Descent Parser(s) ```CSC 173```
 
 - Database Model ```CSC 173```
 
@@ -81,9 +82,28 @@ I am currently embarking on an independent study into near-sensor image processi
 
 
 ### Kotlin
+
 - Flight Tracker Application using FlightAware's AeroApi -> [Here](https://github.com/KodakC41/Tail-Wind-Public.git)
 
+### Flutter 
 
+- Front end to the the Coffee Language Processor for my team's Inference API ```CSC 212```
+
+
+### SQL 
+
+- Athlete Database ```CSC 261```
+
+### PHP 
+
+- Linkage between from and back end for Athlete Database ```CSC 261```
+
+
+### HTML + JS
+
+- Implementation of Google Speech to Text API to do the following: ```CSC 261```
+  - Words per minute calculation
+  - Automated Call Center execution
 
 ### Noteworthy Others  
 - ```C++``` for ```CSC 292/572```
