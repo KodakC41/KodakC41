@@ -29,7 +29,6 @@ Diagram GUI ```CSC 292/572```
 - Facial Tracker Implementation using *OpenFace* AI ```CSC 212```
 
 
-
 ### Java
 
 - Shunting Yard Algorithm ```CSC 172```
@@ -101,9 +100,10 @@ Diagram GUI ```CSC 292/572```
 
 ### HTML + JS
 
-- Implementation of Google Speech to Text API to do the following: ```CSC 261```
+- Implementation of Google Speech to Text API to do the following: ```CSC 212```
   - Words per minute calculation
   - Automated Call Center execution
+- Database front end ```CSC 261```
 
 ### Noteworthy Others  
 - ```C++``` for ```CSC 292/572```
