@@ -8,7 +8,7 @@ I have knowledge of several programming languages as well as an eye for detail a
 I am currently embarking on an independent study into near-sensor image processing using a neural network for object-detection in noisy images taken under extreme heat for ```Horizon Research```.
 
 *My most exciting coding projects have been the following.* 
-*For academic honesty reasons this code is private.*
+*For academic honesty reasons some of this code is private.*
 
 ## Languages 
 
