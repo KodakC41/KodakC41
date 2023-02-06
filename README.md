@@ -1,6 +1,6 @@
 # Christopher Bruinsma 
 
-Welcome to my Github, my name is Chris. I am an aspiring ```Computer Science B.A.``` junior at the University of Rochester and an incoming Software Engineering intern at ```Lockheed Martin```.  I learn quickly and actively in many fields. I find that this is the way to develop more creative ways to solve problems. 
+Welcome to my Github, my name is Chris. I am an aspiring ```Computer Science B.A.``` Senior at the University of Rochester and a former *Lockheed Martin RMS* intern on the ```AN/ALQ-217``` program. I am well versed not only in good programming but also in the project lifecycle. As an intern I learned to take advantage of tools like JIRA and Bitbucket as well as other Agile Project Development tools.  I learn quickly and actively in many fields. I find that this is the way to develop more creative ways to solve problems. 
 
 I also have an inate ability to capture in an image just about anything and have done projects in imaging that have ranged from imaging sound to imaging air. Imaging air used ```Schlieren imaging``` and imaging sound employed a home-made oscilliscope using *Saran wrap*, *a mirror fragment*, and a *laser*. 
 
