@@ -28,6 +28,16 @@ Diagram GUI ```CSC 292/572```
 
 - Facial Tracker Implementation using *OpenFace* AI ```CSC 212```
 
+- K-Means Clustering Implementation ```CSC 249```
+
+- CNN Experiementation in Image Style Transfer in AdaIn and GATYS ```CSC 249```
+
+- Kernel PCA vs. PCA Experimentation Test Bench for Cultural Heritage Objects for Lazarus Project ```CSC 249```
+
+- Queue Cost Analysis for Starbucks In-Person Vs. Virtual ```CSC 289```
+
+
+
 
 ### Java
 
@@ -44,7 +54,6 @@ Diagram GUI ```CSC 292/572```
 - Recursive Make Change Calculator ```CSC 172```
 
 - Linear Classifiers for Logistic and Perceptron Classification ```CSC 242```
-
 
 
 ### C
@@ -69,6 +78,8 @@ Diagram GUI ```CSC 292/572```
 - Diffraction Simulator ```OPT 211```
 
 - RGB Chromaticity Diagrams of *Kodak* Films ```CSC 292/572```
+
+- Image Filtering Experimentation and Fourier Transforms ```CSC 249```
 
 
 ### Lisp
