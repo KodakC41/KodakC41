@@ -34,7 +34,11 @@ Diagram GUI ```CSC 292/572```
 
 - Kernel PCA vs. PCA Experimentation Test Bench for Cultural Heritage Objects for Lazarus Project ```CSC 249```
 
+- Generative Adversarial Neural Networks for Cultural Heritage Object Recovery ```CSC 249```
+
 - Queue Cost Analysis for Starbucks In-Person Vs. Virtual ```CSC 289```
+
+- CoffeeGPT and Coffee LSTM Models ```Fun```
 
 
 
