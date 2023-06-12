@@ -1,11 +1,11 @@
 # Christopher Bruinsma 
 
-Welcome to my Github, my name is Chris. I am an aspiring ```Computer Science B.A.``` Senior at the University of Rochester and a former *Lockheed Martin RMS* intern on the ```AN/ALQ-217``` program and incoming Software Engineer at *Raytheon Technologies* I am well versed not only in good programming but also in the project lifecycle. As an intern I learned to take advantage of tools like JIRA and Bitbucket as well as other Agile Project Development tools.  I learn quickly and actively in many fields. I find that this is the way to develop more creative ways to solve problems. 
+Welcome to my Github, my name is Chris Bruinsma. I am a Hajim School of Engineering Graduate and a former *Lockheed Martin RMS* intern on the ```AN/ALQ-217``` program and now a Software Engineer at *Raytheon Technologies* I am well versed not only in good programming but also in the project lifecycle. As an intern I learned to take advantage of tools like JIRA and Bitbucket as well as other Agile Project Development tools.  I learn quickly and actively in many fields. I find that this is the way to develop more creative ways to solve problems. 
 
 I also have an inate ability to capture in an image just about anything and have done projects in imaging that have ranged from imaging sound to imaging air. Imaging air used ```Schlieren imaging``` and imaging sound employed a home-made oscilliscope using *Saran wrap*, *a mirror fragment*, and a *laser*. 
 
 I have knowledge of several programming languages as well as an eye for detail and design. 
-I am currently embarking on an independent study into near-sensor image processing using a neural network for object-detection in noisy images taken under extreme heat for ```Horizon Research```.
+My work in research has included time working under Dr. Yuhao Zhu in the field of machine vision, Dr. Gregory Heworth of the Lazarus Project for Generative Neural Networks, and most recently for Dr. Anson Kahng in the field of Game Theory. 
 
 *My most exciting coding projects have been the following.* 
 *For academic honesty reasons some of this code is private.*
@@ -38,7 +38,7 @@ Diagram GUI ```CSC 292/572```
 
 - Queue Cost Analysis for Starbucks In-Person Vs. Virtual ```CSC 289```
 
-- CoffeeGPT and Coffee LSTM Models ```Fun```
+- CoffeeGPT3+ and Coffee LSTM Models ```Fun```
 
 
 
