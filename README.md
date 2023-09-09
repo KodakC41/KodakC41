@@ -15,6 +15,8 @@ My work in research has included time working under Dr. Yuhao Zhu in the field o
 
 ### Python
 
+- Personal Assistant _Madcap_ using OpenAI's GPT3.5 ```fun```
+
 - Demosaicing Algorithm for Bayer Array Images ```CSC 292/572```
 
 - [Automating](https://github.com/horizon-research/Overcoming-NSP-Noise.git) a Heat Gun and Camera Setup ```Independent Study [CSC 391]``` 
